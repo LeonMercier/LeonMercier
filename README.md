@@ -1,6 +1,6 @@
 # Greetings traveller 👋
 
-I'm Léon. I'm studying software development at Hive Helsinki. My background is as a researcher in environmental sciences. My skills include C and C++ programming as well as data transformation and visualization using R. Checkout my [LinkedIn](www.linkedin.com/in/leon-mercier)!
+I'm Léon. I'm studying software development at Hive Helsinki. My background is as a researcher in environmental sciences. My skills include C and C++ programming as well as data transformation and visualization using R. Checkout my [LinkedIn](https://www.linkedin.com/in/leon-mercier)!
 
 ## Things I've created
 
