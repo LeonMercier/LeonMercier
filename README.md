@@ -1,4 +1,11 @@
-## Hi there 👋
+# Greetings traveller 👋
+
+I'm Léon. I'm studying software development at Hive Helsinki. My background is as a researcher in environmental sciences. 
+
+## Things I've created
+
+[cub3D](https://github.com/LeonMercier/cub3D)
+A raytracing game in the style of Wolfenstein3D created in **C** without fancy graphical libraries. 
 
 <!--
 **LeonMercier/LeonMercier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
