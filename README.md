@@ -4,7 +4,7 @@ I'm Léon. I'm a junior software engineer and recent  [Hive Helsinki](https://ww
 
 ## Things I've created
 
--   [pollen](https://github.com/LeonMercier/pollen): An ETL pipeline that downloads a pollen allergy forecast, builds charts from it and publishes them on the web.
+-   [pollen-sh](https://github.com/LeonMercier/pollen-sh): An ETL pipeline that downloads a pollen allergy forecast, builds charts from it and publishes them on [pollencast.eu](https://www.pollencast.eu/).
 -   [arcade](https://github.com/LeonMercier/arcade): Microservices-based game platform supporting both online matchmaking and local multiplayer gameplay. Contains a fully playable 3D Pong game with real-time chat and user presence tracking. This was a team effort of five people with my focus on Devops (Docker, Prometheus/Grafana, Elastic stack).
 -   [Wolfy3D](https://github.com/LeonMercier/Wolfy3D): A raytracing game in the style of Wolfenstein3D created in C without fancy graphical libraries. This was a two person project where I implemented most of the rendering logic. 
 -   [Smolsh](https://github.com/LeonMercier/Smolsh): A Bash-style shell for Linux, written in C. This was a two person project where I implemented most of the input parsing and tokenization. 
